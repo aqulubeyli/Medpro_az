@@ -1,0 +1,27 @@
+body{
+    background-color: #e9ecf1;
+
+    font-family: Dancing Script;
+    font-size: 30px;
+}
+p {
+    text-align: justify;
+    margin-top: 0px;
+    margin-right: 300px;
+    margin-bottom: 15px;
+    margin-left: 300px;
+
+    font-size: 20px;
+}
+
+* {
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+}
+
+center {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
