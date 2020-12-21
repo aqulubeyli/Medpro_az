@@ -1,4 +1,4 @@
-*{ 
+* { 
     box-sizing: border-box;
 }
 
@@ -43,7 +43,7 @@ body{
 .menu a {
    /* color: red; */
    /* margin-right: 20px; */
-   padding-right: 16px;
+   padding-right: 20px;
 }
 
 /* #nav li:hover { 
@@ -57,4 +57,6 @@ body{
     top: 10px;
     right: 0px;
 } 
+
+
 
